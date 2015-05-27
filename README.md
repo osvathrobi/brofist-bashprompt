@@ -1,4 +1,4 @@
-# osvathrobibashprompt
+# BroFist BashPrompt
 
 This is my current bash_it profile for bash using bash_it https://github.com/Bash-it/bash-it
 
